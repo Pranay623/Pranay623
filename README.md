@@ -1,107 +1,174 @@
-<!-- ✨ Animated & Engaging GitHub Profile README for Pranay Srivastava -->
+<!-- ✨ Beautiful, Animated GitHub Profile README for Pranay Srivastava -->
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/12d6b6809cf088e774815e1cc5565e489544278786d1da14dd8295277e419619/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578616e4a6b4e6a4a7465486f355a4778704f576835644467324d5442774e6a6c785a6d316d6158563559324e6d4d3368694d57347862695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f764b684b73794546564b344975454b7a57592f67697068792e676966" width="130" alt="Spiderman hanging upside down"/>
+</p>
 
 <h1 align="center">Hey there, I'm <a href="https://github.com/Pranay623" target="_blank">Pranay Srivastava 👋</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Creative+Designer;Tech+Explorer+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Designer;Open+Source+Contributor;Tech+Explorer+🚀" alt="Typing SVG" />
 </p>
 
----
-
-### 🧠 About Me
-🎯 I’m a passionate **developer** who loves creating seamless web experiences and visually appealing interfaces.  
-💻 Skilled in **Node.js**, **React**, **Next.js**, and **MongoDB**, I enjoy bringing both logic and creativity together.  
-📸 When I’m not coding, I’m designing, editing, or exploring new tools to improve my craft.  
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PranaySrivastava)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_srivastava_pranay_)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/PranaySrivastava)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/srivastavapranay623)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PranaySrivastava)
+### 💡 About Me  
+🎯 Passionate **Full-Stack Developer** focused on creating fast, elegant, and efficient systems.  
+⚡ I work with **MERN**, **Next.js**, and **microservices architectures**.  
+🎨 On the side, I design visuals, edit videos, and explore UI/UX.  
+📚 Always learning, always building — one project at a time.
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/PranaySrivastava)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_srivastava_pranay_)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://behance.net/PranaySrivastava)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/srivastavapranay623)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/PranaySrivastava)
+
+---
+
+## 🧠 Tech Stack  
+
+### 🔺 **Skill Pyramid**
 
 <div align="center">
   
-### 🚀 Languages & Frameworks
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="100%">
+  
+🧩 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" height="45"/>
 
----
+</td>
+</tr>
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<tr>
+<td align="center" width="100%">
+  
+🎨 **Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,next,tailwind,bootstrap" height="45"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+  
+⚙️ **Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql" height="45"/>  
+<img src="https://img.shields.io/badge/NATS-0094FF?style=flat&logo=natsdotio&logoColor=white" height="25"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+  
+🗄️ **Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,redis" height="45"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+  
+🔁 **Messaging / Queueing**
+<br/>
+<img src="https://img.shields.io/badge/QStash-0094FF?style=flat&logo=vercel&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Redis%20PubSub-DC382D?style=flat&logo=redis&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/NATS-007ACC?style=flat&logo=natsdotio&logoColor=white" height="25"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+  
+⚙️ **DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,heroku,netlify" height="45"/>  
+<img src="https://img.shields.io/badge/Load%20Balancer-0066CC?style=flat&logo=nginx&logoColor=white" height="25"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+  
+🎨 **Design Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr" height="45"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+  
+🧠 **Other Skills**
+<br/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=swagger&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/OAuth2-3E8EDE?style=flat&logo=auth0&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Rate%20Limiting-0078D4?style=flat&logo=nginx&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Caching-FFB100?style=flat&logo=redis&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/OOP-008080?style=flat&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/DSA-FF6600?style=flat&logo=cplusplus&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Software%20Architecture-6E44FF?style=flat&logo=gitbook&logoColor=white" height="25"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay623&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay623&theme=tokyonight&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay623&theme=tokyonight&layout=compact&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay623&show_icons=true&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranay623&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranay623&layout=compact&theme=tokyonight&hide_border=false" height="150"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranay623&theme=dracula&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranay623&theme=radical&no-bg=true&no-frame=true&margin-w=8" />
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🌊 Dynamic Motion Animation  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranay623/Pranay623/output/snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C2FF,100:7B68EE&text=Keep%20Creating,%20Keep%20Coding!%20💫&fontAlign=50&fontAlignY=40&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Pranay623/animated-assets/blob/main/motion-graph.gif?raw=true" width="600" alt="Animated Graph" />
 </p>
 
 ---
 
-## 👀 Visitor Count
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pranay623/count.svg?" />
-</div>
 
----
-
-<h3 align="center">✨ “Code. Create. Inspire.” ✨</h3>
+<h3 align="center">✨ “Build. Learn. Repeat.” ✨</h3>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="600" />
+  <img src="https://github.com/Pranay623/animated-assets/blob/main/triangle-spin.gif?raw=true" width="140" alt="Spinning Triangle Animation"/>
 </p>
 
----
-
-<!-- Proudly crafted by Pranay Srivastava 💫 -->
+<!-- Crafted with ❤️ by Pranay Srivastava -->

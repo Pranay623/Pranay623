@@ -4,7 +4,7 @@
 <h1 align="center">Hey, I'm <a href="https://github.com/Pranay623" target="_blank">Pranay Srivastava 👋</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3200&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Backend-Focused+SDE+%7C+Fintech+%26+Trading+Systems;Building+real-time%2C+event-driven+architectures;Go+%7C+Kafka+%7C+gRPC+%7C+Redis+%7C+PostgreSQL;Currently%3A+Quant+Platform+Intern+%40+Numatix" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3200&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Backend-Focused+SDE+%7C+Fintech+%26+Trading+Systems;Building+real-time%2C+event-driven+architectures;Go+%7C+Kafka+%7C+gRPC+%7C+Redis+%7C+PostgreSQL;Currently%3A+Intern+%40+Numatix" alt="Typing SVG" />
 </p>
 
 ---

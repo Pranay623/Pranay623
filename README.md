@@ -1,29 +1,44 @@
 <!-- ✨ GitHub Profile README — Pranay Srivastava -->
 
+<div align="center">
 
-<h1 align="center">Hey, I'm <a href="https://github.com/Pranay623" target="_blank">Pranay Srivastava 👋</a></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C2FF,100:7B68EE&text=Pranay%20Srivastava&fontAlign=50&fontAlignY=38&fontSize=46&fontColor=ffffff&desc=Backend%20%C2%B7%20Fintech%20%C2%B7%20Trading%20Systems&descAlignY=60&descSize=18&animation=fadeIn" alt="Header" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3200&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Backend-Focused+SDE+%7C+Fintech+%26+Trading+Systems;Building+real-time%2C+event-driven+architectures;Go+%7C+Kafka+%7C+gRPC+%7C+Redis+%7C+PostgreSQL;Currently%3A+Intern+%40+Numatix" alt="Typing SVG" />
-</p>
+<a href="https://github.com/Pranay623">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=00E0FF&center=true&vCenter=true&width=720&lines=Backend-Focused+SDE+%7C+Fintech+%26+Trading+Systems;Building+real-time%2C+event-driven+architectures;Go+%7C+Kafka+%7C+gRPC+%7C+Redis+%7C+PostgreSQL;Open+source+contributor+%40+Kestra;Intern+%40+Numatix" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PranaySrivastava)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavapranay623@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Pranay623?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Pranay623)
+
+</div>
 
 ---
 
-### 💡 About Me
+## 👨‍💻 About Me
 
-🎯 SDE focused on **real-time, high-throughput backend systems** — the kind that sit underneath trading platforms, order engines, and portfolio dashboards.
+> *I build backend systems that stay fast and consistent when the market gets loud.*
 
-📈 Interested in the systems that power retail investing platforms — order management, market data pipelines, and the infra that keeps them fast and consistent under load.
-
-🌱 Strengthening my **Go + distributed systems** fundamentals while applying my AI/ML specialization where it's useful (strategy analytics, backtesting tools).
+- 🎯 SDE focused on **real-time, high-throughput backend systems**, the kind that sit under trading platforms, order engines, and portfolio dashboards
+- 📈 Fascinated by what powers retail investing platforms: **order management, market data pipelines, and the infra that keeps them correct under load**
+- 🌱 Deepening my **Go + distributed systems** fundamentals, and applying my **AI/ML specialization** where it fits (strategy analytics, backtesting tools)
+- 🎓 B.Tech CSE (AI & ML), graduating 2027
+- 🏢 Currently interning at **Numatix**, working on quantitative trading platform infrastructure
 
 ---
 
-## 🌐 Connect
+## 🌍 Open Source Contributions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/PranaySrivastava)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srivastavapranay623@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pranay623)
+<div align="center">
+
+[![Contributor](https://img.shields.io/badge/5%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:Pranay623+is:pr+is:merged&type=pullrequests)
+
+</div>
+
+Contributing to **[Kestra](https://github.com/kestra-io/kestra)**, the open-source workflow orchestration platform. [See all my merged PRs →](https://github.com/search?q=org:kestra-io+author:Pranay623+is:pr+is:merged&type=pullrequests)
 
 ---
 
@@ -33,48 +48,61 @@
 <tr>
 <td width="50%" valign="top">
 
-**FinFlow — Distributed SIP Order Processing System**
-<br/>
-Go microservices · Kafka · gRPC · Redis · PostgreSQL
+### 💸 FinFlow
+**Distributed SIP Order Processing System**
 
-Event-driven backend simulating mutual fund/SIP order processing: order state machine, idempotent order placement via Redis, async notifications via Kafka consumers, and a gRPC-based portfolio service computing real-time P&L. Fully containerized with Docker Compose, Prometheus, and Grafana.
+`Go` `Kafka` `gRPC` `Redis` `PostgreSQL` `Docker`
 
-[`View Repo →`](https://github.com/Pranay623)
+Event-driven backend simulating mutual fund/SIP order processing:
+
+- Order state machine with **idempotent order placement** via Redis
+- Async notifications through Kafka consumers
+- gRPC portfolio service computing **real-time P&L**
+- Containerized with Docker Compose, observable via Prometheus + Grafana
+
+[**View Repo →**](https://github.com/Pranay623)
 
 </td>
 <td width="50%" valign="top">
 
-**TRADER — Algorithmic Trading Engine**
-<br/>
-Binance API · WebSockets · Canvas · Redis
+### 📊 TRADER
+**Algorithmic Trading Engine**
 
-Real-time trading engine processing 100+ ticks/sec with live order book visualization, bid-ask spread tracking, and a P&L dashboard with unrealized/realized gain calculations. Optimized rendering speed by 60% under high-frequency data load.
+`Binance API` `WebSockets` `Canvas` `Redis`
 
-[`View Repo →`](https://github.com/Pranay623)
+Real-time trading engine handling **100+ ticks/sec**:
+
+- Live order book visualization and bid-ask spread tracking
+- P&L dashboard with unrealized/realized gains
+- Rendering optimized by **60%** under high-frequency data load
+
+[**View Repo →**](https://github.com/Pranay623)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**TrueLedger — Blockchain Document Verification**
-<br/>
-Next.js · Solidity · AWS S3
+### 🔐 TrueLedger
+**Blockchain Document Verification**
 
-RBAC certificate verification system using SHA-256 hashing (99.8% data integrity), built for use cases like KYC and financial audit trails.
+`Next.js` `Solidity` `AWS S3`
 
-[`View Repo →`](https://github.com/Pranay623)
+RBAC certificate verification using **SHA-256 hashing (99.8% data integrity)**, built for KYC and financial audit trail use cases.
+
+[**View Repo →**](https://github.com/Pranay623)
 
 </td>
 <td width="50%" valign="top">
 
-**MockPrep — AI Interview Simulator**
-<br/>
-Gemini API · OAuth2 · Next.js
+### 🎤 MockPrep
+**AI Interview Simulator**
 
-AI-powered mock interview platform with speech-to-text and real-time feedback — 100+ sessions run, 95% user satisfaction.
+`Gemini API` `OAuth2` `Next.js`
 
-[`View Repo →`](https://github.com/Pranay623)
+AI-powered mock interview platform with speech-to-text and real-time feedback. **100+ sessions run, 95% user satisfaction.**
+
+[**View Repo →**](https://github.com/Pranay623)
 
 </td>
 </tr>
@@ -92,12 +120,13 @@ AI-powered mock interview platform with speech-to-text and real-time feedback �
 
 <br/><br/>
 
-**Backend & Systems**
+**Backend & Messaging**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" height="42"/>
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/NATS-0094FF?style=flat&logo=natsdotio&logoColor=white" height="25"/>
+<br/>
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/NATS-0094FF?style=for-the-badge&logo=natsdotio&logoColor=white" height="26"/>
 
 <br/><br/>
 
@@ -107,31 +136,33 @@ AI-powered mock interview platform with speech-to-text and real-time feedback �
 
 <br/><br/>
 
-**Infra & DevOps**
+**Infra & Observability**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,vercel,postman" height="42"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" height="25"/>
+<br/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="26"/>
 
 <br/><br/>
 
 **Frontend (real-time UIs)**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="42"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Lightweight%20Charts-2962FF?style=flat&logo=tradingview&logoColor=white" height="25"/>
+<br/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Lightweight%20Charts-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" height="26"/>
 
 <br/><br/>
 
-**Fintech & Systems Concepts**
+**Concepts I work with**
 <br/>
-<img src="https://img.shields.io/badge/Order%20Management-1A1A1A?style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Event--Driven%20Architecture-1A1A1A?style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Idempotency-1A1A1A?style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Rate%20Limiting-1A1A1A?style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Caching-1A1A1A?style=flat" height="25"/>
-<img src="https://img.shields.io/badge/System%20Design-1A1A1A?style=flat" height="25"/>
-<img src="https://img.shields.io/badge/DSA-1A1A1A?style=flat" height="25"/>
+<img src="https://img.shields.io/badge/Order%20Management-1A1A1A?style=flat-square" height="24"/>
+<img src="https://img.shields.io/badge/Event--Driven%20Architecture-1A1A1A?style=flat-square" height="24"/>
+<img src="https://img.shields.io/badge/Idempotency-1A1A1A?style=flat-square" height="24"/>
+<img src="https://img.shields.io/badge/Rate%20Limiting-1A1A1A?style=flat-square" height="24"/>
+<img src="https://img.shields.io/badge/Caching-1A1A1A?style=flat-square" height="24"/>
+<img src="https://img.shields.io/badge/System%20Design-1A1A1A?style=flat-square" height="24"/>
+<img src="https://img.shields.io/badge/DSA-1A1A1A?style=flat-square" height="24"/>
 
 </div>
 
@@ -140,21 +171,29 @@ AI-powered mock interview platform with speech-to-text and real-time feedback �
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay623&show_icons=true&theme=tokyonight&hide_border=false" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranay623&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranay623&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranay623&layout=compact&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranay623&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay623&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 Finalist in 4+ national hackathons — IIT Jodhpur, AGASTYA Foundation (Anveshna 2024), Hack36 (IIIT Allahabad)
-- 🚀 Qualified for Smart India Hackathon (SIH) 2024 Software Edition · Won IdeaLab Startup Conclave for *3D Connect*
-- 💻 1425 on CodeChef · 925 on Codeforces · Top 10 in multiple coding contests
+| | |
+|---|---|
+| 🏅 **Hackathons** | Finalist in **4+ national hackathons**: IIT Jodhpur, AGASTYA Foundation (Anveshna 2024), Hack36 (IIIT Allahabad) |
+| 🚀 **SIH 2024** | Qualified for Smart India Hackathon, Software Edition |
+| 💡 **Startup** | Won IdeaLab Startup Conclave for *3D Connect* |
+| 🌍 **Open Source** | **5 merged PRs** in Kestra |
+| 💻 **Competitive Programming** | 1425 on CodeChef · 925 on Codeforces · Top 10 in multiple contests |
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pranay623&theme=radical&no-bg=true&no-frame=true&margin-w=8" />
@@ -162,8 +201,14 @@ AI-powered mock interview platform with speech-to-text and real-time feedback �
 
 ---
 
+## 🤝 Let's Connect
+
+I'm open to **SDE roles and internships** in backend, fintech, and trading infrastructure. If you're building something real-time, event-driven, or just interesting, say hi.
+
+📫 **[srivastavapranay623@gmail.com](mailto:srivastavapranay623@gmail.com)** · 💼 **[LinkedIn](https://linkedin.com/in/PranaySrivastava)**
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00C2FF,100:7B68EE&text=Building%20systems%20that%20don't%20go%20down%20%E2%9A%A1&fontAlign=50&fontAlignY=40&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00C2FF,100:7B68EE&text=Building%20systems%20that%20don't%20go%20down%20%E2%9A%A1&fontAlign=50&fontAlignY=60&fontSize=22&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Crafted by Pranay Srivastava -->
